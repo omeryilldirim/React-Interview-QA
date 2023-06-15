@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Interview-QA/static/css/main.feab91bf.css",
+    "main.js": "/React-Interview-QA/static/js/main.b08a0817.js",
+    "index.html": "/React-Interview-QA/index.html",
+    "main.feab91bf.css.map": "/React-Interview-QA/static/css/main.feab91bf.css.map",
+    "main.b08a0817.js.map": "/React-Interview-QA/static/js/main.b08a0817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feab91bf.css",
+    "static/js/main.b08a0817.js"
+  ]
+}
